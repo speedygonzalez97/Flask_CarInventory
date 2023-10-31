@@ -4,7 +4,7 @@ click==8.1.7
 dnspython==2.4.2
 email-validator==2.1.0.post1
 Flask==2.2.5
-Flask-Cors==4.0.0
+Flask-Cors==4.0.0c
 Flask-Login==0.6.2
 flask-marshmallow==0.15.0
 Flask-Migrate==4.0.5
